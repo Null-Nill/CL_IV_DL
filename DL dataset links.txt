@@ -1,0 +1,3 @@
+DL 1 : https://www.kaggle.com/datasets/vedavyasv/usa-housing
+
+DL 6 : https://www.kaggle.com/datasets/rehanliaqat17/imbd-dataset
